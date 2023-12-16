@@ -39,3 +39,4 @@ target/
 *.tar.gz
 *.rar
 hs_err_pid*
+*.txt
